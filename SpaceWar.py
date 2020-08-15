@@ -1280,7 +1280,7 @@ wn.onkeypress(player.accelerate, "Up")
 
 wn.onkeyrelease(player.decelerate, "Up")
 
-wn.onkeypress(player.fire, "space")
+wn.onkeypress(player.fire, "Space")
 
 # Game settings
 
