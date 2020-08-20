@@ -3,6 +3,8 @@ import random
 import math
 wn = turtle.Screen()
 
+wn.title("Golfffff!!!")
+
 wn.screensize(300, 300)
 
 wn.bgcolor("green")
